@@ -1,5 +1,5 @@
 <table border="0px"><tr><td>
-	### Hello World! Você está no perfil do Rodrigo Cavanha!
+	<h1>Hello World! Você está no perfil do Rodrigo Cavanha!</h1>
 	<BR>
 	- 🔭 Professor no  Instituto Federal do Triângulo Mineiro - IFTM Campus Uberlândia Centro.
 </td><td>
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavanhaMan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <BR>
-### Languages and Tools:
+<h2>Languages and Tools:</h2>
 <div style="display: inline_block"><br>
 <img align="left" alt="Visual Studio Code" width="26px" src="img/visual.png" />
 <img align="left" alt="HTML5" width="26px" src="img/html.png" />
