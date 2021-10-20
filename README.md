@@ -1,14 +1,10 @@
-### Hello World! Você está no perfil do Rodrigo Cavanha!
-
-- 🔭 Professor no  Instituto Federal do Triângulo Mineiro - IFTM Campus Uberlândia Centro.
-
-<div class="blank">
-	<a href="https://github.com/CavanhaMan"><img src="img/beard1a_P.png" id="beard" title="Never fear, Cavanha is here!" width="100px"></a>
-</div>
+<table><tr><td>
+	### Hello World! Você está no perfil do Rodrigo Cavanha!
+	- 🔭 Professor no  Instituto Federal do Triângulo Mineiro - IFTM Campus Uberlândia Centro.
+</td><td>
+	<a href="https://github.com/CavanhaMan"><img src="img/beard1a_P.png" id="beard" title="Never fear, Cavanha is here!" width="100px"></a>	   
+</td></tr></table>
 	
-### Hello World! Você está no perfil do Rodrigo Cavanha!
-
-- 🔭 Professor no  Instituto Federal do Triângulo Mineiro - IFTM Campus Uberlândia Centro.
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CavanhaMan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
