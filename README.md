@@ -16,9 +16,9 @@
 <div style="display: inline_block"><br>
 <img align="left" alt="Visual Studio Code" width="25px" src="img/visual.png" />
 <img align="left" alt="HTML5" width="25px" src="img/html.png" />
-<img align="left" alt="CSS3" width="25px" src="img/css.png" />
-<img align="left" alt="Java" height="25px" src="img/java.png">
 <img align="left" alt="JavaScript" width="25px" src="img/javascript.png" />
+<img align="left" alt="CSS3" width="25px" src="img/css.png" />
+<img align="left" alt="Java" height="25px" src="img/javaDuke.png">
 <img align="left" alt="React" width="25px" src="img/react.png" />
 <img align="left" alt="Node.js" width="25px" src="img/nodejs.png" />
 <img align="left" alt="SQL" width="25px" src="img/sql.png" />
